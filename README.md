@@ -8,12 +8,12 @@ requirements:
 1. windows 7 or newer
 2. 64x system
 
-![](step 1 install.png)
+![s1](step%201%20install.png)
 
 click in yes/ok
 
-![](step 2 install.png)
+![s2](step%202%20install.png)
 
 done
 
-![](step 3 install.png)
+![s3](step%203%20install.png)
